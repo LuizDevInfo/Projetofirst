@@ -1,0 +1,9 @@
+h3 {
+        background: url("../assets/imgperfumes/kaik.png") left/20px no-repeat;
+}
+
+.img-borda {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
